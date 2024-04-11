@@ -1,0 +1,6 @@
+1. The terminal is a  way to manage folders and files without needing the front end (GUI) 
+2. Git is the tool the computer uses for the terminal to work with GitHub, a service online.
+3. Step 1: Log in to your GitHub.
+   Step 2: Go to the GitHub repository that you want to fork.
+   Step 3. Select where you want to fork the repository and GitHub will create a copy.
+   Step 4. Now clone the forked repository to your local machine.
